@@ -8,20 +8,20 @@ tags:
 
 # Welcome to our team wiki!
 
-This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place all of my personal projects. That are in most cases all open source and licensed either on a [Apache-2.0](./licenses/apache-2.0) or one of the GPL's either [AGPL-3.0](./licenses/agpl-3.0) or [GPL-3.0](./licenses/gpl-3.0).
+This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place all of my personal projects. That are in most cases all open source and licensed either on a [Apache-2.0](./licenses/apache-v2.0.md) or one of the GPL's either [AGPL-3.0](./licenses/gnu-agpl-v3.0.md) or [GPL-3.0](./licenses/gnu-gpl-v3.0.md).
 
 # Getting started
 
 **Important basics!** Must-read for every new editor 😉
 
-- [How to update this wiki](./wiki/update)
-- [FAQ](./wiki/faq)
+- [How to update this wiki](./wiki/update.md)
+- [FAQ](./wiki/faq.md)
 
 ## ChordFlower info
 
-- [Mission & vision](./corporate/mission)
-- [Values](./corporate/values)
-- [Company culture](./corporate/culture)
+- [Mission & vision](./corporate/mission.md)
+- [Values](./corporate/values.md)
+- [Company culture](./corporate/culture.md)
 
 # Resources
 
@@ -29,15 +29,15 @@ Everything there is to know about chordflower. Keep an eye out for updates!
 
 ## 👤 People
 
-- [Code of conduct](./corporate/code-of-conduct)
-- [Contributing](./contributing)
+- [Code of conduct](./corporate/code-of-conduct.md)
+- [Contributing](./contributing.md)
 
 ## 💼 Work
 
-- [Our tools](./management/tools)
-- [Our workflows](./management/workflows)
+- [Our tools](./management/tools.md)
+- [Our workflows](./management/workflows.md)
 - Team handbooks:
-    - [Management handbook](./management)
+    - [Management handbook](./management.md)
 
 # How to find me and ChordFlower
 

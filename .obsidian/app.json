@@ -24,5 +24,6 @@
   "showLineNumber": true,
   "tabSize": 2,
   "useTab": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
