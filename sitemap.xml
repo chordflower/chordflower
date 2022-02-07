@@ -6,6 +6,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/licenses/gnu-agpl-v3.0/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/licenses/gnu-gpl-v3.0/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chordflower.github.io/chordflower/tags.html</loc>
          <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
