@@ -29,7 +29,7 @@ Everything there is to know about chordflower. Keep an eye out for updates!
 
 ## 👤 People
 
-- [Code of conduct](./corporate/code-of-conduct.md)
+- [Code of conduct](./corporate/code_of_conduct.md)
 - [Contributing](./contributing.md)
 
 ## 💼 Work
