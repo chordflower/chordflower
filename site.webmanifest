@@ -50,6 +50,6 @@
     ],
     "theme_color": "#656565",
     "background_color": "#656565",
-    "start_url": "https://chordflower.github.io/chordflower",
+    "start_url": "https://chordflower.github.io/chordflower/",
     "display": "standalone"
 }
