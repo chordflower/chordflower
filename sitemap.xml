@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chordflower.github.io/chordflower/corporate/code_of_conduct/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0/</loc>
          <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
@@ -17,6 +22,16 @@
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/licenses/gnu-gpl-v3.0/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/wiki/faq/</loc>
+         <lastmod>2022-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/wiki/update/</loc>
          <lastmod>2022-02-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
