@@ -44,11 +44,3 @@ Everything there is to know about chordflower. Keep an eye out for updates!
 Here are some useful links:
 
 - [@carddamom](mailto:%63%61%72%64%64%61%6D%6F%6D%40%63%68%6F%72%64%66%6C%6F%77%65%72%2E%63%63)
-
-<pre>
-​~~~mermaid
-graph TB
-A --> B
-B --> C
-​~~~
-</pre>
