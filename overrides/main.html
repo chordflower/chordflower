@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block site_meta %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  {% if page and page.meta and page.meta.description %}
+  <meta name="description" content="{{ page.meta.description }}" />
+  {% elif config.site_description %}
+  <meta name="description" content="{{ config.site_description }}" />
+  {% endif %}
+  {% if page and page.meta and page.meta.author %}
+  <meta name="author" content="{{ page.meta.author }}" />
+  {% elif config.site_author %}
+  <meta name="author" content="{{ config.site_author }}" />
+  {% endif %}
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% endif %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'apple-touch-icon.png' | url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ 'favicon-32x32.png' | url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ 'android-chrome-192x192.png' | url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ 'favicon-16x16.png' | url }}">
+  <link rel="manifest" href="{{ 'site.webmanifest' | url }}">
+  <link rel="mask-icon" href="{{ 'safari-pinned-tab.svg' | url }}" color="#aea809">
+  <meta name="apple-mobile-web-app-title" content="ChordFlower Wiki">
+  <meta name="application-name" content="ChordFlower Wiki">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-TileImage" content="{{ 'mstile-144x144.png' | url }}">
+  <meta name="theme-color" content="#656565">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.14.0-rc1/mermaid.min.js"></script>
+{% endblock %}

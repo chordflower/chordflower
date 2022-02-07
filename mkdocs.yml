@@ -1,0 +1,67 @@
+site_name: ChordFlower Wiki
+site_url: https://chordflower.github.io/chordflower
+nav:
+  - Home: index.md
+  - Other:
+    - Tags: tags.md
+    - PDF Version: ./pdf/document.pdf
+repo_url: https://github.com/chordflower/chordflower/
+edit_uri: blob/develop/docs/
+site_description: ChordFlower Wiki
+site_author: carddamom
+copyright:  ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
+dev_addr: 127.0.0.1:8080
+extra_css:
+  - ./pygments.css
+extra_javascript: []
+markdown_extensions:
+    toc:
+        permalink: true
+    extra: {}
+    sane_lists: {}
+    codehilite: {}
+    meta: {}
+    smarty: {}
+    md_mermaid: {}
+plugins:
+  - with-pdf:
+      back_cover: true
+      cover_subtitle: Some documentation
+      cover_logo: ./header.png
+      heading_shift: false
+  - img2fig
+  - tags
+  - htmlproofer
+  - enumerate-headings:
+      increment_across_pages: false
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+      css_files:
+        - ./pygments.css
+      js_files: []
+  - search:
+      prebuild_index: true
+      indexing: titles
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: brown
+    accent: yellow
+  font:
+    text: Nunito
+    code: Indie Flower
+  icon:
+    logo: fontawesome/solid/seedling
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top

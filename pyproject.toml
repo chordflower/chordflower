@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "chordflower"
+version = "0.1.0"
+description = "A static wiki about my projects"
+authors = ["carddamom <carddamom@tutanota.com>"]
+license = "CC-BY-NC-ND-4.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.2.3"
+Pygments = "^2.11.2"
+mdx-google-map = "^1.0.1"
+md-mermaid = "^0.1.1"
+tags-macros-plugin = {git = "https://github.com/jldiaz/mkdocs-plugin-tags"}
+mkdocs-emailprotect-plugin = {git = "https://github.com/rkoe/mkdocs-emailprotect"}
+mkdocs-htmlproofer-plugin = "^0.8.0"
+mkdocs-minify-plugin = "^0.5.0"
+mkdocs-enumerate-headings-plugin = "^0.5.0"
+mkdocs-with-pdf = "^0.9.3"
+mkdocs-img2fig-plugin = {git = "https://github.com/stuebersystems/mkdocs-img2fig-plugin"}
+qrcode = "^7.3.1"
+mkdocs-material = "^8.1.10"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.931"
+flake8 = "^4.0.1"
+black = "^22.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
