@@ -11,6 +11,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://chordflower.github.io/chordflower/corporate/mission/</loc>
+         <lastmod>2022-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/corporate/values/</loc>
+         <lastmod>2022-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0/</loc>
          <lastmod>2022-02-08</lastmod>
          <changefreq>daily</changefreq>
