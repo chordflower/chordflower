@@ -4,7 +4,6 @@ nav:
   - Home: index.md
   - Other:
     - Tags: tags.md
-    - PDF Version: ./pdf/document.pdf
 repo_url: https://github.com/chordflower/chordflower/
 edit_uri: blob/develop/docs/
 site_description: ChordFlower Wiki
@@ -24,11 +23,6 @@ markdown_extensions:
     smarty: {}
     md_mermaid: {}
 plugins:
-  - with-pdf:
-      back_cover: true
-      cover_subtitle: Some documentation
-      cover_logo: ./header.png
-      heading_shift: false
   - img2fig
   - tags
   - htmlproofer
