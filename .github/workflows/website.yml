@@ -20,6 +20,8 @@ jobs:
       uses: Gr1N/setup-poetry@v7
     - name: Run poetry
       run: poetry install
+    - name: Run process script
+      run: poetry run scripts.py process
     - name: Run mkdocs
       run: poetry run mkdocs build
     - name: Deploy website

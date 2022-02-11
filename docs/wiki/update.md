@@ -31,6 +31,7 @@ Then in a shell type in:
 
 ```bash
 poetry install
+poetry run scripts.py process
 poetry run mkdocs build
 ```
 

@@ -413,3 +413,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode,compressedarchive,python,backup,svn,cvs,bazaar,mercurial
 aux/
+docs/site.webmanifest
+docs/browserconfig.xml

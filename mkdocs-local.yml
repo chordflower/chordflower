@@ -1,5 +1,5 @@
 site_name: ChordFlower Wiki
-site_url: https://chordflower.github.io/chordflower
+site_url: https://localhost:8081/carddamom/wiki
 nav:
   - Home: index.md
   - Other:
