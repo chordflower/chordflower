@@ -2,10 +2,10 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="/chordflower/mstile-70x70.png"/>
-            <square150x150logo src="/chordflower/mstile-150x150.png"/>
-            <square310x310logo src="/chordflower/mstile-310x310.png"/>
-            <wide310x150logo src="/chordflower/mstile-310x150.png"/>
+            <square70x70logo src="https://chordflower.github.io/chordflower/mstile-70x70.png"/>
+            <square150x150logo src="https://chordflower.github.io/chordflower/mstile-150x150.png"/>
+            <square310x310logo src="https://chordflower.github.io/chordflower/mstile-310x310.png"/>
+            <wide310x150logo src="https://chordflower.github.io/chordflower/mstile-310x150.png"/>
             <TileColor>#ffc40d</TileColor>
         </tile>
     </msapplication>
