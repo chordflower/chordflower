@@ -27,10 +27,20 @@
   <meta name="msapplication-TileColor" content="#ffc40d">
   <meta name="msapplication-TileImage" content="{{ page.canonical_url ~ 'mstile-144x144.png' | url }}">
   <meta name="theme-color" content="#656565">
-  <script type="module">
+  <!-- <script type="module">
     import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate'
     const el = document.createElement( 'pwa-update' )
     document.body.appendChild( el );
+  </script> -->
+  <script type="module">
+    navigator.serviceWorker.register( './simple_service_worker.js', {
+      type: 'module',
+    } ).then( function ( serviceWorkerRegistration ) {
+      console.log( 'Service worker is installed' )
+    } ).catch( function ( error ) {
+      console.log( 'Service worker registration failed:', error )
+      console.dir( error )
+    } );
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.14.0-rc1/mermaid.min.js"></script>
 {% endblock %}
