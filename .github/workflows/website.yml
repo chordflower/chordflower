@@ -21,7 +21,7 @@ jobs:
     - name: Run poetry
       run: poetry install
     - name: Run process script
-      run: poetry run scripts.py process
+      run: poetry run python scripts.py process
     - name: Run mkdocs
       run: poetry run mkdocs build
     - name: Deploy website
