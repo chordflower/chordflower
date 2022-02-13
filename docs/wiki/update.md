@@ -31,7 +31,7 @@ Then in a shell type in:
 
 ```bash
 poetry install
-poetry run scripts.py dist
+poetry run python scripts.py dist
 ```
 
 And you should have the final result in the `dist` directory in the root directory.
