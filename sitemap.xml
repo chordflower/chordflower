@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://chordflower.github.io/chordflower/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/index.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/corporate/code_of_conduct/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/corporate/code_of_conduct.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/corporate/mission/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/corporate/mission.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/corporate/values/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/corporate/values.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/licenses/gnu-agpl-v3.0/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/licenses/gnu-agpl-v3.0.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/licenses/gnu-gpl-v3.0/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/licenses/gnu-gpl-v3.0.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/wiki/faq/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/wiki/faq.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chordflower.github.io/chordflower/wiki/update/</loc>
-         <lastmod>2022-02-12</lastmod>
+         <loc>https://chordflower.github.io/chordflower/wiki/update.html</loc>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/tags.html</loc>
-         <lastmod>2022-02-12</lastmod>
+         <lastmod>2022-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
