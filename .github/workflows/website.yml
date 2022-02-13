@@ -21,7 +21,7 @@ jobs:
     - name: Run poetry
       run: poetry install
     - name: Run process script
-      run: poetry run scripts.py dist
+      run: poetry run python scripts.py dist
     - name: Deploy website
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/develop' }}
