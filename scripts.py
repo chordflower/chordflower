@@ -31,12 +31,12 @@ class Tasks:
         logging.info("\tRunning mkdocs")
         if local:
             if os.system(
-                "poetry run mkdocs build --config-file ./mkdocs-local.yml --quiet"
+                "poetry run mkdocs build --config-file ./mkdocs-local.yml --quiet --no-directory-urls"
             ) != 0:
                 logging.error("Error running mkdocs")
                 return False
         else:
-            if os.system("poetry run mkdocs build --config-file ./mkdocs.yml --quiet") != 0:
+            if os.system("poetry run mkdocs build --config-file ./mkdocs.yml --quiet --no-directory-urls") != 0:
                 logging.error("Error running mkdocs")
                 return False
         return True

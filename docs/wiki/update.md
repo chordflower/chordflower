@@ -25,7 +25,7 @@ If you want to do a local build of the wiki and have the repository files in han
 - [moustache](https://en.m.wikipedia.org/wiki/Handlebar_moustache) or [moustache 2](https://en.m.wikipedia.org/wiki/Walrus_moustache)
 - [brown sugar](https://open.spotify.com/track/5dGVIZ6oc0ScR4ldWGbXSU?si=fiT7C8gUTSqxNLf_3COERw)
 
-**Note:** Do not mess with these [man](../badass_man.jpg).
+**Note:** Do not mess with these [man](./badass_man.jpg).
 
 Then in a shell type in:
 
