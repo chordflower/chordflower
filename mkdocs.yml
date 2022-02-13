@@ -5,6 +5,8 @@ nav:
   - Other:
     - Tags: tags.md
 repo_url: https://github.com/chordflower/chordflower/
+docs_dir: site
+site_dir: dist
 edit_uri: blob/develop/docs/
 site_description: ChordFlower Wiki
 site_author: carddamom

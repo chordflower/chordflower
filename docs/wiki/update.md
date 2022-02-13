@@ -31,23 +31,21 @@ Then in a shell type in:
 
 ```bash
 poetry install
-poetry run scripts.py process
-poetry run mkdocs build
+poetry run scripts.py dist
 ```
 
-And you should have the final result in the `site` directory in the root directory.
+And you should have the final result in the `dist` directory in the root directory.
 
 To have a server version, you may also use:
 
-```bash
-poetry run mkdocs serve
-```
+TODO
 
 And then open [http://localhost:8080](http://localhost:8080) to view the resulting website.
 
 ## Structure
 
-All of the documentation is inside the docs folder as markdown files, along with some images and manifest files for the PWA stuff.
+All of the documentation is inside the docs folder as markdown files.
+Also, in the static folder there is the files needed for the PWA application, like the favicons, manifest and service worker.
 
 ## License
 
