@@ -8,7 +8,7 @@ tags:
 
 # Welcome to our team wiki!
 
-This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place all of my personal projects. That are in most cases all open source and licensed either on a [Apache-2.0](./licenses/apache-v2.0.md) or one of the GPL's either [AGPL-3.0](./licenses/gnu-agpl-v3.0.md) or [GPL-3.0](./licenses/gnu-gpl-v3.0.md).
+This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place all of my personal projects. That are in most cases all open source and licensed either on a [🪶 Apache-2.0](./licenses/apache-v2.0.md) or one of the GPL's either [🐃 AGPL-3.0](./licenses/gnu-agpl-v3.0.md) or [🐃 GPL-3.0](./licenses/gnu-gpl-v3.0.md).
 
 # Getting started
 
@@ -17,7 +17,7 @@ This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place 
 - [How to update this wiki](./wiki/update.md)
 - [FAQ](./wiki/faq.md)
 
-## ChordFlower info
+## 🍞 ChordFlower info
 
 - [Mission & vision](./corporate/mission.md)
 - [Values](./corporate/values.md)
@@ -27,17 +27,20 @@ This is the wiki for ChordFlower the outlet where I ( carddamom ) usually place 
 
 Everything there is to know about chordflower. Keep an eye out for updates!
 
-## 👤 People
+## 🐧 People
 
 - [Code of conduct](./corporate/code_of_conduct.md)
 - [Contributing](./contributing.md)
 
-## 💼 Work
+## 🗄 Subspaces
 
-- [Our tools](./management/tools.md)
-- [Our workflows](./management/workflows.md)
-- Team handbooks:
-    - [Management handbook](./management.md)
+- [Management space](./management/index.md)
+
+## 🧭 Projects
+
+This is a list of projects of ChordFlower by state:
+
+-
 
 # How to find me and ChordFlower
 

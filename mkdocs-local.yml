@@ -2,8 +2,29 @@ site_name: ChordFlower Wiki
 site_url: https://localhost:8081/carddamom/wiki
 nav:
   - Home: index.md
+  - Departments:
+      - Corporate:
+          - Code of Conduct: corporate/code_of_conduct.md
+          - Mission: corporate/mission.md
+          - Values: corporate/values.md
+      - Management:
+          - management/index.md
+          - Product: management/product.md
+          - Licenses:
+              - Apache-2.0: licenses/apache-v2.0.md
+              - GNU AGPL-3.0: licenses/gnu-agpl-v3.0.md
+              - GNU GPL-3.0: licenses/gnu-gpl-v3.0.md
+          - Taxonomies: management/taxonomies.md
+          - Areas: management/areas.md
+          - States: management/states.md
+          - Tools: management/tools.md
+          - Workflows: management/workflows.md
+  - Wiki:
+      - FAQ: wiki/faq.md
+      - Update: wiki/update.md
   - Other:
-    - Tags: tags.md
+      - Glossary: glossary.md
+      - Tags: tags.md
 repo_url: https://github.com/chordflower/chordflower/
 edit_uri: blob/develop/docs/
 docs_dir: site
@@ -24,9 +45,9 @@ markdown_extensions:
     meta: {}
     smarty: {}
     md_mermaid: {}
+    markdown_captions: {}
 plugins:
   - macros
-  - img2fig
   - tags
   - htmlproofer
   - enumerate-headings:

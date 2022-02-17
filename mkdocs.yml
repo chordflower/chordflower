@@ -1,32 +1,53 @@
 site_name: ChordFlower Wiki
-site_url: https://chordflower.github.io/chordflower
+site_url: 'https: //chordflower.github.io/chordflower'
 nav:
   - Home: index.md
+  - Departments:
+      - Corporate:
+          - Code of Conduct: corporate/code_of_conduct.md
+          - Mission: corporate/mission.md
+          - Values: corporate/values.md
+      - Management:
+          - management/index.md
+          - Product: management/product.md
+          - Licenses:
+              - Apache-2.0: licenses/apache-v2.0.md
+              - GNU AGPL-3.0: licenses/gnu-agpl-v3.0.md
+              - GNU GPL-3.0: licenses/gnu-gpl-v3.0.md
+          - Taxonomies: management/taxonomies.md
+          - Areas: management/areas.md
+          - States: management/states.md
+          - Tools: management/tools.md
+          - Workflows: management/workflows.md
+  - Wiki:
+      - FAQ: wiki/faq.md
+      - Update: wiki/update.md
   - Other:
-    - Tags: tags.md
-repo_url: https://github.com/chordflower/chordflower/
+      - Glossary: glossary.md
+      - Tags: tags.md
+repo_url: 'https: //github.com/chordflower/chordflower/'
 docs_dir: site
 site_dir: dist
 edit_uri: blob/develop/docs/
 site_description: ChordFlower Wiki
 site_author: carddamom
-copyright:  ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
-dev_addr: 127.0.0.1:8080
+copyright: ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
+dev_addr: '127.0.0.1: 8080'
 extra_css:
   - ./pygments.css
 extra_javascript: []
 markdown_extensions:
-    toc:
-        permalink: true
-    extra: {}
-    sane_lists: {}
-    codehilite: {}
-    meta: {}
-    smarty: {}
-    md_mermaid: {}
+  toc:
+    permalink: true
+  extra: {}
+  sane_lists: {}
+  codehilite: {}
+  meta: {}
+  smarty: {}
+  md_mermaid: {}
+  markdown_captions: {}
 plugins:
   - macros
-  - img2fig
   - tags
   - htmlproofer
   - enumerate-headings:
@@ -36,13 +57,14 @@ plugins:
       minify_js: true
       minify_css: true
       htmlmin_opts:
-          remove_comments: true
+        remove_comments: true
       css_files:
         - ./pygments.css
       js_files: []
   - search:
       prebuild_index: true
       indexing: titles
+  - section-index
 theme:
   name: material
   palette:
