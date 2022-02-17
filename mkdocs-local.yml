@@ -31,7 +31,7 @@ docs_dir: site
 site_dir: /home/carddamom/Web/wiki
 site_description: ChordFlower Wiki
 site_author: carddamom
-copyright:  ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
+copyright: ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
 dev_addr: 127.0.0.1:8080
 extra_css:
   - ./pygments.css
@@ -64,6 +64,7 @@ plugins:
   - search:
       prebuild_index: true
       indexing: titles
+  - section-index: {}
 theme:
   name: material
   palette:

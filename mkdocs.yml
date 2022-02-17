@@ -1,5 +1,5 @@
 site_name: ChordFlower Wiki
-site_url: https: //chordflower.github.io/chordflower
+site_url: https://chordflower.github.io/chordflower
 nav:
   - Home: index.md
   - Departments:
@@ -25,14 +25,14 @@ nav:
   - Other:
       - Glossary: glossary.md
       - Tags: tags.md
-repo_url: https: //github.com/chordflower/chordflower/
+repo_url: https://github.com/chordflower/chordflower/
+edit_uri: blob/develop/docs/
 docs_dir: site
 site_dir: dist
-edit_uri: blob/develop/docs/
 site_description: ChordFlower Wiki
 site_author: carddamom
 copyright: ChordFlower Wiki © 2022 by carddamom is licensed under CC BY-NC-ND 4.0
-dev_addr: '127.0.0.1: 8080'
+dev_addr: 127.0.0.1:8080
 extra_css:
   - ./pygments.css
 extra_javascript: []
@@ -64,7 +64,7 @@ plugins:
   - search:
       prebuild_index: true
       indexing: titles
-  - section-index
+  - section-index: {}
 theme:
   name: material
   palette:
