@@ -1,5 +1,5 @@
 site_name: ChordFlower Wiki
-site_url: 'https: //chordflower.github.io/chordflower'
+site_url: https: //chordflower.github.io/chordflower
 nav:
   - Home: index.md
   - Departments:
@@ -25,7 +25,7 @@ nav:
   - Other:
       - Glossary: glossary.md
       - Tags: tags.md
-repo_url: 'https: //github.com/chordflower/chordflower/'
+repo_url: https: //github.com/chordflower/chordflower/
 docs_dir: site
 site_dir: dist
 edit_uri: blob/develop/docs/
