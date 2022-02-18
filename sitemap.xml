@@ -2,97 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://chordflower.github.io/chordflower/index.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/glossary.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/coding/index.html</loc>
+         <lastmod>2022-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chordflower.github.io/chordflower/coding/werwolf/index.html</loc>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/corporate/code_of_conduct.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/corporate/mission.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/corporate/values.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/licenses/apache-v2.0.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/licenses/gnu-agpl-v3.0.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/licenses/gnu-gpl-v3.0.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/index.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/areas.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/product.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/states.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/status.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/taxonomies.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/tools.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/management/workflows.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/wiki/faq.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/wiki/update.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chordflower.github.io/chordflower/tags.html</loc>
-         <lastmod>2022-02-17</lastmod>
+         <lastmod>2022-02-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
