@@ -35,12 +35,7 @@ Everything there is to know about chordflower. Keep an eye out for updates!
 ## 🗄 Subspaces
 
 - [Management space](./management/index.md)
-
-## 🧭 Projects
-
-This is a list of projects of ChordFlower by state:
-
--
+- [Development Space](./coding/index.md) => For more information on active products read this!
 
 # How to find me and ChordFlower
 
