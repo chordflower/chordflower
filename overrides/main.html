@@ -16,16 +16,16 @@
   {% if page.canonical_url %}
   <link rel="canonical" href="{{ page.canonical_url }}" />
   {% endif %}
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ page.canonical_url ~ 'apple-touch-icon.png' | url }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ page.canonical_url ~ 'favicon-32x32.png' | url }}">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ page.canonical_url ~ 'android-chrome-192x192.png' | url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ page.canonical_url ~ 'favicon-16x16.png' | url }}">
-  <link rel="manifest" href="{{ page.canonical_url ~ 'site.webmanifest' | url }}">
-  <link rel="mask-icon" href="{{ page.canonical_url ~ 'safari-pinned-tab.svg' | url }}" color="#aea809">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ config.site_url ~ '/apple-touch-icon.png' | url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ config.site_url ~ '/favicon-32x32.png' | url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ config.site_url ~ '/android-chrome-192x192.png' | url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ config.site_url ~ '/favicon-16x16.png' | url }}">
+  <link rel="manifest" href="{{ config.site_url ~ '/site.webmanifest' | url }}">
+  <link rel="mask-icon" href="{{ config.site_url ~ '/safari-pinned-tab.svg' | url }}" color="#aea809">
   <meta name="apple-mobile-web-app-title" content="ChordFlower Wiki">
   <meta name="application-name" content="ChordFlower Wiki">
   <meta name="msapplication-TileColor" content="#ffc40d">
-  <meta name="msapplication-TileImage" content="{{ page.canonical_url ~ 'mstile-144x144.png' | url }}">
+  <meta name="msapplication-TileImage" content="{{ config.site_url ~ '/mstile-144x144.png' | url }}">
   <meta name="theme-color" content="#656565">
   <!-- <script type="module">
     import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate'
